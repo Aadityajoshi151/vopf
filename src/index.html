@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Aaditya Joshi - Voice Portfolio</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Aaditya Joshi</h1>
+    <h3>🎙️ Voice Artist | Narration | Dubbing 🎙️</h3>
+    <!-- Contact Details -->
+    <div class="top-contact">
+      <p>📞 <strong>Call / WhatsApp:</strong> <a href="tel:+919009182315">+91 9009182315</a></p>
+      <p>📧 <strong>Email 1:</strong> <a href="mailto:aadityajoshi1501@proton.me">aadityajoshi1501@proton.me</a></p>
+      <p>📧 <strong>Email 2:</strong> <a href="mailto:aadityajoshi151@gmail.com">aadityajoshi151@gmail.com</a></p>
+    </div>
+  </header>
+
+  <div class="container">
+    <!-- About Me -->
+    <section>
+      <h2>About Me</h2>
+      <p>Hello! I’m Aaditya, a passionate voice artist with a growing portfolio. I specialize in narration, multiple types of voice-overs and dubbing. Explore my samples below!</p>
+    </section>
+
+    <!-- Award Section (optional) -->
+    <!--
+    <section class="award-section">
+      <img src="images/award.jpeg" alt="Award Received by Aaditya Joshi" />
+      <div class="award-text">
+        <p><strong>Award Title:</strong> Award description</p>
+      </div>
+    </section>
+    -->
+
+    <!-- Collapsible: Voice Samples -->
+    <section class="collapsible-section">
+      <div class="collapsible-header" onclick="toggleSection('voice-samples')">
+        <h2>Voiceover Samples</h2>
+        <span class="arrow" id="arrow-voice-samples">▼</span>
+      </div>
+      <div class="collapsible-content" id="voice-samples">
+        <div class="video-grid" id="voiceSamples"></div>
+      </div>
+    </section>
+
+    <!-- Collapsible: Dubbing -->
+    <section class="collapsible-section">
+      <div class="collapsible-header" onclick="toggleSection('dubbing')">
+        <h2>Dubbing Samples</h2>
+        <span class="arrow" id="arrow-dubbing">▼</span>
+      </div>
+      <div class="collapsible-content" id="dubbing">
+        <div class="video-grid" id="dubbingSamples"></div>
+      </div>
+    </section>
+  </div>
+
+  <footer>
+    &copy; 2025 Aaditya Joshi. All rights reserved.
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

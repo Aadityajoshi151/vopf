@@ -1,0 +1,79 @@
+{
+  "voiceSamples": [
+    {
+      "title": "Corporate V.O. - Sample 1",
+      "url": "https://www.youtube.com/embed/dvZFxmaL-kM"
+    },
+    {
+      "title": "Corporate V.O. - Sample 2",
+      "url": "https://www.youtube.com/embed/YR_2bV5HeJk"
+    },
+    {
+      "title": "Documentary - Sample 1",
+      "url": "https://www.youtube.com/embed/AdyPlOEXOB8"
+    },
+    {
+      "title": "Documentary - Sample 2",
+      "url": "https://www.youtube.com/embed/aZU6D_u-ruA"
+    },
+    {
+      "title": "E-Learninig - Sample 1",
+      "url": "https://www.youtube.com/embed/zitMu1LfrtM"
+    },
+    {
+      "title": "E-Learning - Sample 2",
+      "url": "https://www.youtube.com/embed/jWfKWOTx7ew"
+    },
+    {
+      "title": "Radio Ad - Sample 1",
+      "url": "https://www.youtube.com/embed/0ikzmNXeJbo"
+    },
+    {
+      "title": "Radio Ad - Sample 2",
+      "url": "https://www.youtube.com/embed/O_Gr58Z0D90"
+    },
+    {
+      "title": "Audiobook - Sample",
+      "url": "https://www.youtube.com/embed/3VOVsUfKukM"
+    },
+    {
+      "title": "Poem Reading - Sample",
+      "url": "https://www.youtube.com/embed/L1u2Hp9l5ik"
+    },
+    {
+      "title": "Invitation - Sample",
+      "url": "https://www.youtube.com/embed/mKVC45ApfRo"
+    },
+    {
+      "title": "English Walkthrough - Sample",
+      "url": "https://www.youtube.com/embed/EAFpEguvL5s"
+    },
+    {
+      "title": "Hindi Walkthrough - Sample",
+      "url": "https://www.youtube.com/embed/lszQ0L1bATM"
+    },
+    {
+      "title": "IVR - Sample",
+      "url": "https://www.youtube.com/embed/DgQgrxkmSzk"
+    },
+    {
+      "title": "Announcement - Sample",
+      "url": "https://www.youtube.com/embed/LJgbgv5n5K0"
+    }
+  ],
+  "dubbingSamples": [
+    {
+      "title": "Cartoon FanDub [Zootopia] - (Fox) ",
+      "url": "https://drive.google.com/file/d/10wWtcFhzSV5-Iwedil5OVMh1fiFKtCC9/preview"
+    },
+    {
+      "title": "Coming Soon",
+      "url": ""
+    },
+    {
+      "title": "Coming Soon",
+      "url": ""
+    }
+
+  ]
+}
